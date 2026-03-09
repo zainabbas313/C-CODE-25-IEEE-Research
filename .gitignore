@@ -1,0 +1,50 @@
+# ─── Model Checkpoints ────────────────────────────────────────────────────────
+# Keras / TensorFlow weights (large binary files — share via Drive or HuggingFace)
+*.h5
+*.keras
+*.ckpt
+*.ckpt.index
+*.ckpt.data-*
+checkpoint
+saved_model/
+
+# ─── Jupyter Artifacts ────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# ─── Data Files ───────────────────────────────────────────────────────────────
+# Raw and processed data — not tracked (often too large or private)
+*.csv
+*.npy
+*.npz
+*.pkl
+*.pickle
+data/
+datasets/
+
+# ─── Generated Images ─────────────────────────────────────────────────────────
+# ECG transform images produced during preprocessing
+images/
+*_FUSED_IMAGES/
+*.png
+*.jpg
+*.jpeg
+!docs/          # Allow docs/assets if added later
+
+# ─── Python Environment ───────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# ─── IDE / OS ─────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
