@@ -241,7 +241,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @inproceedings{abbas2025multimodal,
   title     = {Multi-Modal Image Fusion for Enhanced Multi-Class Diagnosis of Cardiovascular Diseases Using Deep Learning},
-  author    = {Abbas, Zain and Haseeb, Mohammad and Mehdavi, Hasan},
+  author    = {Zain Abbas, Sania Urooj Mohammad Haseeb,  Hasan Mehdavi},
   booktitle = {Proceedings of the 4th International Conference on Communication, Computing and Digital Systems (C-CODE'25)},
   year      = {2025},
   month     = {October},
