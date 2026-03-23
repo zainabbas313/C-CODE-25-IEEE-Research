@@ -254,4 +254,4 @@ If you use this work in your research, please cite:
 
 ## Read the Paper
 
-[Read Full Paper on IEEE Xplore]([https://ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/11204115))
+[Read Full Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11204115)
